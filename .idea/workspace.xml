@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/refreshment.py" line="124" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ae1b30-efa6-4205-8432-0ac27c4ea35c" name="Default Changelist" comment="" />
+    <list default="true" id="d1ae1b30-efa6-4205-8432-0ac27c4ea35c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/refreshment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="611" selection-start-line="611" selection-end-line="611" />
+            <state relative-caret-position="240">
+              <caret line="608" column="7" lean-forward="true" selection-start-line="608" selection-start-column="7" selection-end-line="608" selection-end-column="7" />
               <folding>
                 <marker date="1588160519135" expanded="true" signature="3910:3965" ph="..." />
               </folding>
@@ -42,6 +44,9 @@
       <replace>/</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,6 +59,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -74,6 +80,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -155,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/refreshment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="611" selection-start-line="611" selection-end-line="611" />
+        <state relative-caret-position="240">
+          <caret line="608" column="7" lean-forward="true" selection-start-line="608" selection-start-column="7" selection-end-line="608" selection-end-column="7" />
           <folding>
             <marker date="1588160519135" expanded="true" signature="3910:3965" ph="..." />
           </folding>
